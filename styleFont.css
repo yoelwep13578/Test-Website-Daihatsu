@@ -1,0 +1,9 @@
+/*====[font]====*/
+@font-face {
+    font-family: SFComic;
+    src: url('font/SFComicScript.ttf');
+}
+@font-face {
+    font-family: SFComic-outlined;
+    src: url('font/SFComicScriptOutline.ttf');
+}

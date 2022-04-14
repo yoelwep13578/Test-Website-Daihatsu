@@ -1,0 +1,28 @@
+===========================/
+     WEBSITE DAIHATSU     /
+=========================/  ----------------------------------------------
+
+
+
+
+   +------------------------------------------------------+
+   |                                                      |
+   |   Natanael : Bagian Beranda, dan Produk              |
+   |   Achirul  : Bagian Galeri, dan Karyawan             |
+   |   Faiz     : Bagian Visi & Misi                      |
+   |   Yoel     : Bagian Index, Pdf1, Pdf2, Pdf3,         |
+   |              File PDF, pengeditan link,              |
+   |              serta keseluruhan tampilan              |
+   |                                                      |
+   +------------------------------------------------------+
+
+
+
+
+
+==========================\
+       Bahan Tambahan      \
+                            \---------------------------------------------
+
+    - BootStrap Icon (dengan tag <svg>)
+    - Font SFComic (diimpor dengan CSS @fontface)
